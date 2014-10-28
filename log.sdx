@@ -1,0 +1,160 @@
+Store Manager at time: Tue Oct 16 15:26:33 2012 received message: 1 5648 R XXXX
+Process 1 at time: Tue Oct 16 15:26:33 2012 sent message: 1 5648 R XXXX
+Process 2 at time: Tue Oct 16 15:26:33 2012 sent message: 2 5649 R INTEL
+Store Manager at time: Tue Oct 16 15:26:33 2012 sent message: R 1 XXXX 0
+Process 1 at time: Tue Oct 16 15:26:33 2012 received message: R 1 XXXX 0
+Store Manager at time: Tue Oct 16 15:26:33 2012 received message: 2 5649 R INTEL
+Store Manager at time: Tue Oct 16 15:26:33 2012 sent message: R 0 INTEL 56
+Process 2 at time: Tue Oct 16 15:26:33 2012 received message: R 0 INTEL 56
+Process 1 at time: Tue Oct 16 15:26:35 2012 sent message: 1 5648 R DISNEY
+Store Manager at time: Tue Oct 16 15:26:35 2012 received message: 1 5648 R DISNEY
+Process 1 at time: Tue Oct 16 15:26:35 2012 received message: R 0 DISNEY 3
+Store Manager at time: Tue Oct 16 15:26:35 2012 sent message: R 0 DISNEY 3
+Process 2 at time: Tue Oct 16 15:26:36 2012 sent message: 2 5649 U INTEL 45
+Store Manager at time: Tue Oct 16 15:26:36 2012 received message: 2 5649 U INTEL 45
+Process 2 at time: Tue Oct 16 15:26:36 2012 received message: U 0 INTEL 101
+Store Manager at time: Tue Oct 16 15:26:36 2012 sent message: U 0 INTEL 101
+Process 2 at time: Tue Oct 16 15:26:39 2012 sent message: 2 5649 U DISNEY 21
+Store Manager at time: Tue Oct 16 15:26:39 2012 received message: 2 5649 U DISNEY 21
+Process 2 at time: Tue Oct 16 15:26:39 2012 received message: U 0 DISNEY 24
+Store Manager at time: Tue Oct 16 15:26:39 2012 sent message: U 0 DISNEY 24
+Process 2 at time: Tue Oct 16 15:26:41 2012 sent message: 2 5649 U DISNEY 21
+Store Manager at time: Tue Oct 16 15:26:41 2012 received message: 2 5649 U DISNEY 21
+Process 2 at time: Tue Oct 16 15:26:41 2012 received message: U 0 DISNEY 45
+Store Manager at time: Tue Oct 16 15:26:41 2012 sent message: U 0 DISNEY 45
+Process 2 at time: Tue Oct 16 15:26:42 2012 sent message: 2 5649 R DISNEY
+Store Manager at time: Tue Oct 16 15:26:42 2012 received message: 2 5649 R DISNEY
+Process 2 at time: Tue Oct 16 15:26:42 2012 received message: R 0 DISNEY 45
+Store Manager at time: Tue Oct 16 15:26:42 2012 sent message: R 0 DISNEY 45
+Process 2 at time: Tue Oct 16 15:26:43 2012 sent message: 2 5649 U DISNEY 21
+Store Manager at time: Tue Oct 16 15:26:43 2012 received message: 2 5649 U DISNEY 21
+Process 2 at time: Tue Oct 16 15:26:43 2012 received message: U 0 DISNEY 66
+Store Manager at time: Tue Oct 16 15:26:43 2012 sent message: U 0 DISNEY 66
+Process 2 at time: Tue Oct 16 15:26:45 2012 sent message: 2 5649 U DIY 21
+Store Manager at time: Tue Oct 16 15:26:45 2012 received message: 2 5649 U DIY 21
+Process 2 at time: Tue Oct 16 15:26:45 2012 received message: U 1 DIY 0
+Store Manager at time: Tue Oct 16 15:26:45 2012 sent message: U 1 DIY 0
+Process 1 at time: Tue Oct 16 15:47:29 2012 sent message: 1 7388 R XXXX
+Store Manager at time: Tue Oct 16 15:47:29 2012 received message: 1 7388 R XXXX
+Process 2 at time: Tue Oct 16 15:47:29 2012 sent message: 2 7389 R INTEL
+Store Manager at time: Tue Oct 16 15:47:29 2012 sent message: R 1 XXXX 0
+Store Manager at time: Tue Oct 16 15:47:29 2012 received message: 2 7389 R INTEL
+Process 1 at time: Tue Oct 16 15:47:29 2012 received message: R 1 XXXX 0
+Store Manager at time: Tue Oct 16 15:47:29 2012 sent message: R 0 INTEL 56
+Process 2 at time: Tue Oct 16 15:47:29 2012 received message: R 0 INTEL 56
+Process 1 at time: Tue Oct 16 15:47:30 2012 sent message: 1 7388 R DISNEY
+Store Manager at time: Tue Oct 16 15:47:30 2012 received message: 1 7388 R DISNEY
+Process 1 at time: Tue Oct 16 15:47:30 2012 received message: R 0 DISNEY 3
+Store Manager at time: Tue Oct 16 15:47:30 2012 sent message: R 0 DISNEY 3
+Process 2 at time: Tue Oct 16 15:47:32 2012 sent message: 2 7389 U INTEL 45
+Store Manager at time: Tue Oct 16 15:47:32 2012 received message: 2 7389 U INTEL 45
+Process 2 at time: Tue Oct 16 15:47:32 2012 received message: U 0 INTEL 101
+Store Manager at time: Tue Oct 16 15:47:32 2012 sent message: U 0 INTEL 101
+Process 2 at time: Tue Oct 16 15:47:34 2012 sent message: 2 7389 U DISNEY 21
+Store Manager at time: Tue Oct 16 15:47:34 2012 received message: 2 7389 U DISNEY 21
+Process 2 at time: Tue Oct 16 15:47:34 2012 received message: U 0 DISNEY 24
+Store Manager at time: Tue Oct 16 15:47:34 2012 sent message: U 0 DISNEY 24
+Process 2 at time: Tue Oct 16 15:47:34 2012 sent message: 2 7389 U DISNEY 21
+Store Manager at time: Tue Oct 16 15:47:34 2012 received message: 2 7389 U DISNEY 21
+Process 2 at time: Tue Oct 16 15:47:34 2012 received message: U 0 DISNEY 45
+Store Manager at time: Tue Oct 16 15:47:34 2012 sent message: U 0 DISNEY 45
+Process 2 at time: Tue Oct 16 15:47:37 2012 sent message: 2 7389 R DISNEY
+Store Manager at time: Tue Oct 16 15:47:37 2012 received message: 2 7389 R DISNEY
+Process 2 at time: Tue Oct 16 15:47:37 2012 received message: R 0 DISNEY 45
+Store Manager at time: Tue Oct 16 15:47:37 2012 sent message: R 0 DISNEY 45
+Process 2 at time: Tue Oct 16 15:47:37 2012 sent message: 2 7389 U DISNEY 21
+Store Manager at time: Tue Oct 16 15:47:37 2012 received message: 2 7389 U DISNEY 21
+Process 2 at time: Tue Oct 16 15:47:37 2012 received message: U 0 DISNEY 66
+Store Manager at time: Tue Oct 16 15:47:37 2012 sent message: U 0 DISNEY 66
+Process 2 at time: Tue Oct 16 15:47:38 2012 sent message: 2 7389 U DIY 21
+Store Manager at time: Tue Oct 16 15:47:38 2012 received message: 2 7389 U DIY 21
+Process 2 at time: Tue Oct 16 15:47:38 2012 received message: U 1 DIY 0
+Store Manager at time: Tue Oct 16 15:47:38 2012 sent message: U 1 DIY 0
+Process 1 at time: Tue Oct 14 17:01:05 2014 sent message: 1 23415 R XXXX
+Process 2 at time: Tue Oct 14 17:01:05 2014 sent message: 2 23416 R INTEL
+Store Manager at time: Tue Oct 14 17:01:05 2014 received message: 1 23415 R XXXX
+Store Manager at time: Tue Oct 14 17:01:05 2014 sent message: R 1 XXXX 0
+Process 1 at time: Tue Oct 14 17:01:05 2014 received message: R 1 XXXX 0
+Store Manager at time: Tue Oct 14 17:01:05 2014 received message: 2 23416 R INTEL
+Process 2 at time: Tue Oct 14 17:01:05 2014 received message: R 0 INTEL 56
+Store Manager at time: Tue Oct 14 17:01:05 2014 sent message: R 0 INTEL 56
+Process 1 at time: Tue Oct 14 17:01:08 2014 sent message: 1 23415 R DISNEY
+Store Manager at time: Tue Oct 14 17:01:08 2014 received message: 1 23415 R DISNEY
+Process 2 at time: Tue Oct 14 17:01:08 2014 sent message: 2 23416 U INTEL 45
+Process 1 at time: Tue Oct 14 17:01:08 2014 received message: R 0 DISNEY 3
+Store Manager at time: Tue Oct 14 17:01:08 2014 sent message: R 0 DISNEY 3
+Store Manager at time: Tue Oct 14 17:01:08 2014 received message: 2 23416 U INTEL 45
+Process 2 at time: Tue Oct 14 17:01:08 2014 received message: U 0 INTEL 101
+Store Manager at time: Tue Oct 14 17:01:08 2014 sent message: U 0 INTEL 101
+Process 1 at time: Tue Oct 14 17:01:19 2014 sent message: 1 23420 R XXXX
+Process 2 at time: Tue Oct 14 17:01:19 2014 sent message: 2 23421 R INTEL
+Store Manager at time: Tue Oct 14 17:01:19 2014 received message: 1 23420 R XXXX
+Store Manager at time: Tue Oct 14 17:01:19 2014 sent message: R 1 XXXX 0
+Process 1 at time: Tue Oct 14 17:01:19 2014 received message: R 1 XXXX 0
+Store Manager at time: Tue Oct 14 17:01:19 2014 received message: 2 23421 R INTEL
+Process 2 at time: Tue Oct 14 17:01:19 2014 received message: R 0 INTEL 56
+Store Manager at time: Tue Oct 14 17:01:19 2014 sent message: R 0 INTEL 56
+Process 1 at time: Tue Oct 14 17:01:20 2014 sent message: 1 23420 R DISNEY
+Store Manager at time: Tue Oct 14 17:01:20 2014 received message: 1 23420 R DISNEY
+Process 1 at time: Tue Oct 14 17:01:20 2014 received message: R 0 DISNEY 3
+Store Manager at time: Tue Oct 14 17:01:20 2014 sent message: R 0 DISNEY 3
+Process 2 at time: Tue Oct 14 17:01:22 2014 sent message: 2 23421 U INTEL 45
+Store Manager at time: Tue Oct 14 17:01:22 2014 received message: 2 23421 U INTEL 45
+Process 2 at time: Tue Oct 14 17:01:22 2014 received message: U 0 INTEL 101
+Store Manager at time: Tue Oct 14 17:01:22 2014 sent message: U 0 INTEL 101
+Process 2 at time: Tue Oct 14 17:01:25 2014 sent message: 2 23421 U DISNEY 21
+Store Manager at time: Tue Oct 14 17:01:25 2014 received message: 2 23421 U DISNEY 21
+Process 2 at time: Tue Oct 14 17:01:25 2014 received message: U 0 DISNEY 24
+Store Manager at time: Tue Oct 14 17:01:25 2014 sent message: U 0 DISNEY 24
+Process 2 at time: Tue Oct 14 17:01:28 2014 sent message: 2 23421 U DISNEY 21
+Store Manager at time: Tue Oct 14 17:01:28 2014 received message: 2 23421 U DISNEY 21
+Process 2 at time: Tue Oct 14 17:01:28 2014 received message: U 0 DISNEY 45
+Store Manager at time: Tue Oct 14 17:01:28 2014 sent message: U 0 DISNEY 45
+Process 2 at time: Tue Oct 14 17:01:28 2014 sent message: 2 23421 R DISNEY
+Store Manager at time: Tue Oct 14 17:01:28 2014 received message: 2 23421 R DISNEY
+Process 2 at time: Tue Oct 14 17:01:28 2014 received message: R 0 DISNEY 45
+Store Manager at time: Tue Oct 14 17:01:28 2014 sent message: R 0 DISNEY 45
+Process 2 at time: Tue Oct 14 17:01:29 2014 sent message: 2 23421 U DISNEY 21
+Store Manager at time: Tue Oct 14 17:01:29 2014 received message: 2 23421 U DISNEY 21
+Process 2 at time: Tue Oct 14 17:01:29 2014 received message: U 0 DISNEY 66
+Store Manager at time: Tue Oct 14 17:01:29 2014 sent message: U 0 DISNEY 66
+Process 2 at time: Tue Oct 14 17:01:31 2014 sent message: 2 23421 U DIY 21
+Store Manager at time: Tue Oct 14 17:01:31 2014 received message: 2 23421 U DIY 21
+Process 2 at time: Tue Oct 14 17:01:31 2014 received message: U 1 DIY 0
+Store Manager at time: Tue Oct 14 17:01:31 2014 sent message: U 1 DIY 0
+Process 2 at time: Mon Oct 27 15:28:15 2014 sent message: 2 26418 R INTEL
+Process 1 at time: Mon Oct 27 15:28:15 2014 sent message: 1 26417 R XXXX
+Store Manager at time: Mon Oct 27 15:28:15 2014 received message: 2 26418 R INTEL
+Store Manager at time: Mon Oct 27 15:28:15 2014 sent message: R 0 INTEL 56
+Store Manager at time: Mon Oct 27 15:28:15 2014 received message: 1 26417 R XXXX
+Store Manager at time: Mon Oct 27 15:28:15 2014 sent message: R 1 XXXX 0
+Process 1 at time: Mon Oct 27 15:28:15 2014 received message: R 1 XXXX 0
+Process 2 at time: Mon Oct 27 15:28:15 2014 received message: R 0 INTEL 56
+Process 1 at time: Mon Oct 27 15:28:17 2014 sent message: 1 26417 R DISNEY
+Store Manager at time: Mon Oct 27 15:28:17 2014 received message: 1 26417 R DISNEY
+Process 1 at time: Mon Oct 27 15:28:17 2014 received message: R 0 DISNEY 3
+Store Manager at time: Mon Oct 27 15:28:17 2014 sent message: R 0 DISNEY 3
+Store Manager at time: Mon Oct 27 15:28:18 2014 received message: 2 26418 U INTEL 45
+Process 2 at time: Mon Oct 27 15:28:18 2014 sent message: 2 26418 U INTEL 45
+Store Manager at time: Mon Oct 27 15:28:18 2014 sent message: U 0 INTEL 101
+Process 2 at time: Mon Oct 27 15:28:18 2014 received message: U 0 INTEL 101
+Process 2 at time: Mon Oct 27 15:28:19 2014 sent message: 2 26418 U DISNEY 21
+Store Manager at time: Mon Oct 27 15:28:19 2014 received message: 2 26418 U DISNEY 21
+Process 2 at time: Mon Oct 27 15:28:19 2014 received message: U 0 DISNEY 24
+Store Manager at time: Mon Oct 27 15:28:19 2014 sent message: U 0 DISNEY 24
+Process 2 at time: Mon Oct 27 15:28:20 2014 sent message: 2 26418 U DISNEY 21
+Store Manager at time: Mon Oct 27 15:28:20 2014 received message: 2 26418 U DISNEY 21
+Process 2 at time: Mon Oct 27 15:28:20 2014 received message: U 0 DISNEY 45
+Store Manager at time: Mon Oct 27 15:28:20 2014 sent message: U 0 DISNEY 45
+Process 2 at time: Mon Oct 27 15:28:21 2014 sent message: 2 26418 R DISNEY
+Store Manager at time: Mon Oct 27 15:28:21 2014 received message: 2 26418 R DISNEY
+Process 2 at time: Mon Oct 27 15:28:21 2014 received message: R 0 DISNEY 45
+Store Manager at time: Mon Oct 27 15:28:21 2014 sent message: R 0 DISNEY 45
+Process 2 at time: Mon Oct 27 15:28:22 2014 sent message: 2 26418 U DISNEY 21
+Store Manager at time: Mon Oct 27 15:28:22 2014 received message: 2 26418 U DISNEY 21
+Process 2 at time: Mon Oct 27 15:28:22 2014 received message: U 0 DISNEY 66
+Store Manager at time: Mon Oct 27 15:28:22 2014 sent message: U 0 DISNEY 66
+Process 2 at time: Mon Oct 27 15:28:25 2014 sent message: 2 26418 U DIY 21
+Store Manager at time: Mon Oct 27 15:28:25 2014 received message: 2 26418 U DIY 21
+Process 2 at time: Mon Oct 27 15:28:25 2014 received message: U 1 DIY 0
+Store Manager at time: Mon Oct 27 15:28:25 2014 sent message: U 1 DIY 0
