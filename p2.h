@@ -8,9 +8,24 @@
 #include <ctype.h>
 #include <signal.h>
 #include <sys/types.h>
-
+#include <stdbool.h>
 #include <stdlib.h>
+#include <string>
+#include <iostream>
+#include <unistd.h>
+#include <signal.h>
+#include <sys/types.h>
+#include <stdio.h>
+#include <unistd.h>
+#include <signal.h>
+#include <sys/types.h>
+#include <time.h>
 
+
+#include <sstream>
+
+
+ using namespace std;
 
 
 #define MAXLINE 180;
@@ -21,8 +36,17 @@
 
 typedef struct TABLE
 {
-
-	
 	char ids[20];
 	int value;
 } TABLE;
+
+typedef struct INST
+{
+	char command;
+	char ids[20];
+	int value;
+} INST;
+
+int main(int argc, char **argv);
+bool readline(char* inputfilename, char* buf, int linenum);
+void tokenize (string line, string* tokenizedline);
